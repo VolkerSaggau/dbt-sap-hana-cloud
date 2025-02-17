@@ -10,6 +10,7 @@ dbt/adapters/saphanacloud/connections.py
 dbt/adapters/saphanacloud/impl.py
 dbt/adapters/saphanacloud/relation.py
 dbt/adapters/saphanacloud/relation_configs/index.py
+dbt/bin/daff.py
 dbt/include/saphanacloud/__init__.py
 dbt/include/saphanacloud/dbt_project.yml
 dbt/include/saphanacloud/profile_template.yml
